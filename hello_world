@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# A script that will print out a message
+
+hello_message="Hello World!"
+current_dir=$(pwd)
+
+echo "$hello_message from $current_dir"

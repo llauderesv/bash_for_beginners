@@ -1,0 +1,13 @@
+#!/bin/bash
+
+number=2394
+expression=$((4 + 2))
+echo "The output of the expression $expression"
+
+
+if [ $((number % 2)) -eq 0 ]
+then
+  echo "The number $number is even"
+else
+  echo "The number $number  is odd"
+fi

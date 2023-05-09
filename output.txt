@@ -1,0 +1,16 @@
+total 16
+drwxr-xr-x 2 vincetllauderes staff  64 May  7 15:29 b
+-rw-r--r-- 1 vincetllauderes staff 309 May  7 23:51 file.txt
+-rw-r--r-- 1 vincetllauderes staff 526 Apr 23 23:23 index.js
+-rw-r--r-- 1 vincetllauderes staff  27 May  7 23:32 index2.js
+-rw-r--r-- 1 vincetllauderes staff   0 May  7 23:52 output.txt
+-rw-r--r-- 1 vincetllauderes staff   0 May  7 23:52 part4.txt
+-rw-r--r-- 1 vincetllauderes staff 295 May  7 23:35 quote.txt
+total 20
+drwxr-xr-x 2 vincetllauderes staff  64 May  7 15:29 b
+-rw-r--r-- 1 vincetllauderes staff 309 May  7 23:51 file.txt
+-rw-r--r-- 1 vincetllauderes staff 526 Apr 23 23:23 index.js
+-rw-r--r-- 1 vincetllauderes staff  27 May  7 23:32 index2.js
+-rw-r--r-- 1 vincetllauderes staff 434 May  7 23:52 output.txt
+-rw-r--r-- 1 vincetllauderes staff   0 May  7 23:52 part4.txt
+-rw-r--r-- 1 vincetllauderes staff 295 May  7 23:35 quote.txt

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+check_even () {
+  local mod=2
+  echo "The value of mod is $mod"
+  if [ $(($1 % $mod)) -eq 0 ]
+  then
+    echo "The number $i is even!"
+  else
+    echo "The number $i is odd!"
+  fi
+}
+
+number=2345
+check_even $number
+echo $mod
